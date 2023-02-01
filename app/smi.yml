@@ -1,3 +1,6 @@
+# Copyright (c) HashiCorp, Inc.
+# SPDX-License-Identifier: MIT
+
 # TCPRoute for Counting Service
 ---
 apiVersion: specs.smi-spec.io/v1alpha1
