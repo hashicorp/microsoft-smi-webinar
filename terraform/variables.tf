@@ -1,3 +1,5 @@
+# Copyright IBM Corp. 2019, 2026
+
 variable "prefix" {
   description = "The prefix for the resources created in the specified Azure Resource Group"
   default     = "consul"

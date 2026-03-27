@@ -1,3 +1,5 @@
+# Copyright IBM Corp. 2019, 2026
+
 module "aks" {
   source             = "Azure/aks/azurerm"
   version            = "1.0.0"
